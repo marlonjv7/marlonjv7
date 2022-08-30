@@ -43,7 +43,6 @@ const MarlonJV7 = {
 <div display="flex">
    <p>&nbsp;<img aling="center" src="https://github-readme-stats.vercel.app/api?username=marlonjv7&show_icons=true&locale=en" alt="marlonjv7" /></p>
    <p><img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marlonjv7&show_icons=true&locale=en&layout=compact" alt="marlonjv7" /></p>
-   <p>&nbsp;<img aling="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marlonjv7&" alt="marlonjv7" /></p>
 </div>
 
 
