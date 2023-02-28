@@ -32,7 +32,7 @@ const MarlonJV7 = {
 
 - 💬 Pregúntame sobre **React, JavaScript, HTML, CSS.**
 
-- 📄 Conoce mis [experiencias](https://www.canva.com/design/DAFC4I4x2ow/zMm1nMhYD5rcwS2KYwWsPg/view?utm_content=DAFC4I4x2ow&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Conoce mis [experiencias](https://www.canva.com/design/DAFSNilQiUA/v971QRgVGtaACncuCksYsA/view?utm_content=DAFSNilQiUA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <h3 align="left">Contáctate conmigo:</h3>
 <p align="left">
