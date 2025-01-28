@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=marlonjv7.marlonjv7)
+
 <h1 align="center">Hola 👋, soy Marlon</h1>
 <h3 align="center">Un apasionado desarrollador frontend de Colombia</h3>
 <p align="center"> 
@@ -24,7 +26,7 @@
 const MarlonJV7 = {
     pronouns = "He" | "MJ7",
     code = [JavaScript, TypeScript, HTML, CSS],
-    tools = [React, Redux, StyledComponents, Jest, Node, Firebase, Git, Heroku, Figma],
+    tools = [Angular, AngularMaterial, React, Redux, StyledComponents, Jest, Node, Firebase, Git, Heroku, Figma],
     frameworks = [Bootstrap, Material UI, Tailwind, Formik, Yup, SweetAlert2, SASS, Babel, Webpack]
 }
 ```
@@ -40,9 +42,10 @@ const MarlonJV7 = {
 <a target="_blank" href="mailto:marlongelviz2203@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 </p>
 
-<div display="flex">
-   <p>&nbsp;<img aling="center" src="https://github-readme-stats.vercel.app/api?username=marlonjv7&show_icons=true&locale=en" alt="marlonjv7" /></p>
-   <p><img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marlonjv7&show_icons=true&locale=en&layout=compact" alt="marlonjv7" /></p>
+<div align="center">
+   <img aling="center" src="https://github-readme-stats.vercel.app/api?username=marlonjv7&show_icons=true&theme=tokyonight&locale=en" alt="marlonjv7" />
+   &nbsp;<img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonjv7&layout=donut&theme=tokyonight" alt="marlonjv7" />
 </div>
+
 
 
